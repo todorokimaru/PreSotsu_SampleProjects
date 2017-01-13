@@ -1,0 +1,2 @@
+# PreSotsu_SampleProjects
+プレ卒用サンプルプロジェクト
